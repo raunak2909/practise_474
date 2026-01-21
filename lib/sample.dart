@@ -8,16 +8,16 @@ void main(){
 
   ///+, -, *, /, %, ++, --
   ///
-  /// Add (+)
+  /// Add (+) (done)
   /// 1. Sub
   /// 2. Multi
   /// 3. Division
-  /// with using functions
-  /// 4. Using if-else for choice
-  /// 5. Find the greatest of 3 nos.
+  /// with using functions (done)
+  /// 4. Using if-else for choice (done)
+  /// 5. Find the greatest of 3 nos. (done)
   /// 6. Find the smallest of 3 nos.
-  /// 7. Find if the given no is EVEN or ODD. (Done)
-  /// 8. Find if the given year is LEAP year or not.
+  /// 7. Find if the given no is EVEN or ODD. (done)
+  /// 8. Find if the given year is LEAP year or not. (done)
   /*stdout.write("\t Hello \n");
   print("World!!");*/
 
