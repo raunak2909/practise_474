@@ -31,20 +31,28 @@ void main(){
     }
   } while(toResume);
 
-  ///1.Check if the given no is a PRIME no or not.
-     ///a.Find all the Prime no. before any given no.
-     ///b.Find all the Prime no. between any two given no.
-     ///c.Find the first n Prime no.
+  ///a1.Find all the ODD no. before any given no.
+  ///b1.Find all the ODD no. between any two given no.
+  ///c1.Find the first n ODD no.
+  ///
+  ///a2.Find all the ODD no. before any given no.
+  ///b2.Find all the ODD no. between any two given no.
+  ///c2.Find the first n ODD no.
+  ///1.Check if the given no is a PRIME no or not.(done)
+     ///a.Find all the Prime no. before any given no.(done)
+     ///b.Find all the Prime no. between any two given no.(done)
+     ///c.Find the first n Prime no.(done)
   ///2.Check if the given no is a Armstrong no or not.
-     ///a.Find all the Prime no. before any given no.
-     ///b.Find all the Prime no. between any two given no.
-     ///c.Find the first n Prime no.
+     ///a.Find all the Armstrong no. before any given no.
+     ///b.Find all the Armstrong no. between any two given no.
+     ///c.Find the first n Armstrong no.
   ///3.Check if the given no is a Palindrome no(int) or not.
-     ///a.Find all the Prime no. before any given no.
-     ///b.Find all the Prime no. between any two given no.
+     ///a.Find all the Palindrome no. before any given no.
+     ///b.Find all the Palindrome no. between any two given no.
      ///c.Find the first n Prime no.
   ///4.Check if the given name is a Palindrome(String) or not.
   ///5.Print First n terms of Fibonacci series.(0, 1, 1, 2, 3, 5, 8, 13, 21....)
+  ///6.Calculate the factorial of given no.(!)
 
 
 
