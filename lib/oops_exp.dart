@@ -10,8 +10,14 @@ void main(){
   User u2 = User.fromMobNo("Rajeev", 21, "9876598765");
   u2.printInfo();
 
+  A a = A();
 
 
+
+
+}
+
+class A {
 
 }
 
@@ -50,7 +56,11 @@ class User{
 
   }
 
-  login(){
+  login(String email, String pass){
 
   }
+
+  /*login(int mobNo, String pass){
+
+  }*/
 }

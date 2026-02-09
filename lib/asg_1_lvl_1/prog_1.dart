@@ -1,0 +1,7 @@
+/// Ques
+void main(){
+
+
+
+
+}
