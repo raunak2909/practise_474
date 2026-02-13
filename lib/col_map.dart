@@ -101,6 +101,8 @@ void main(){
     },
   ];
 
+  print(stuDetails[0]["marks"]);
+
   ///Print the name of first student
   ///print(stuDetails[0]["name"]);
   ///Print the marks of second student
@@ -112,7 +114,7 @@ void main(){
     print(stuDetails[i]["marks"]["math"][0]);
   }*/
   ///Print all the students name with their percentage
-  for(int i = 0; i<stuDetails.length; i++){
+  /*for(int i = 0; i<stuDetails.length; i++){
     num total = 0;
     int engMarks = stuDetails[i]["marks"]["eng"];
     int hinMarks = stuDetails[i]["marks"]["hin"];
@@ -125,7 +127,7 @@ void main(){
     total = engMarks+hinMarks+sciMarks+sstMarks+avgMathMarks;
     num percentage = total/5;
     print("The percentage of ${stuDetails[i]["name"]} is $percentage");
-  }
+  }*/
   ///Q. Dataset of 10 such similar students with different data (done)
   ///Q1. Dataset of 10 employees with different data
   ///Q2. Find the average total marks of all students

@@ -35,9 +35,9 @@ void main(){
   ///b1.Find all the ODD no. between any two given no.
   ///c1.Find the first n ODD no.
   ///
-  ///a2.Find all the ODD no. before any given no.
-  ///b2.Find all the ODD no. between any two given no.
-  ///c2.Find the first n ODD no.
+  ///a2.Find all the EVEN no. before any given no.
+  ///b2.Find all the EVEN no. between any two given no.
+  ///c2.Find the first n EVEN no.
   ///1.Check if the given no is a PRIME no or not.(done)
      ///a.Find all the Prime no. before any given no.(done)
      ///b.Find all the Prime no. between any two given no.(done)
