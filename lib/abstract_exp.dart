@@ -25,6 +25,15 @@ abstract class A{
 
 }
 
+class D extends A{
+
+  @override
+  result() {
+    print("result");
+  }
+
+}
+
 class B implements A, C{
 
   @override
